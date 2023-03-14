@@ -1,8 +1,8 @@
 <h1>Hi, I'm SteveSudo! <br/><a href="https://www.linkedin.com/in/steven-povia/">Computer Science</a> honor student, front-end web developer <a href="https://stevenpovia.com/">Freelancer | Entrepreneur</a>, & U.S. military veteran.</h1>
 
 <h2>👨‍💻 Projects:</h2>
-- <a href="https://github.com/SteveSudo/maze-pathfinder.py">Maze - Python3</a><br/>
-- <a href="https://github.com/SteveSudo/modern_bank_app">Bank App - React JS</a><br/>
+• <a href="https://github.com/SteveSudo/maze-pathfinder.py">Maze - Python3</a><br/>
+• <a href="https://github.com/SteveSudo/modern_bank_app">Bank App - React JS</a><br/>
 
 <h2> 🤳 Connect with me:</h2>
 
